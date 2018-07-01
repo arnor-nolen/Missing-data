@@ -1,6 +1,4 @@
 # Missing data
-Overview and how to use the software
------
 Trying to fight missing data problem in emotion recognition. This software processes EEG (electroencephalogramms) data using different techniques.
 
 In order to use the software, convert EEG results to text files using EEGLAB software, then load them into the program. After that, artificially create missingness in files. Then choose one the methods that you want to apply and get the result.
